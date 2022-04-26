@@ -30,7 +30,7 @@ After that input you can input either the tag of ur choosing or the whole URL.
 
 After inputting the URL 
 ### Why?
-I was bored and made it for personal use but feel free to use it and point out to any errors i made.
+I was bored and made it for personal use but feel free to use it and point out any errors i made.
 
 
 
