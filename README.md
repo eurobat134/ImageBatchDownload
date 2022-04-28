@@ -28,7 +28,11 @@ After that input you can input either the tag of ur choosing or the whole URL.
 
 ![image](https://user-images.githubusercontent.com/84097707/165061497-74eb18c3-5a03-4498-985d-7579559ed6dd.png)
 
-After inputting the URL 
+After inputting the URL the number of pages will be printed in the console and the teminal will ask you how how many pages u want to download.
+
+You can answer with any number ranging from 1 to the maximum page number.
+
+After that you will be asked about the quality if the images that u want to download since Yand.re has a 1080p version and a 4k+ version, so u can asnwer that question with either **hd** for HD resolution or **4k** - **8k** for the best resolution available.
 ### Why?
 I was bored and made it for personal use but feel free to use it and point out any errors i made.
 
